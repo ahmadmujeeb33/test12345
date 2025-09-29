@@ -25,7 +25,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
-      <p className="flex bg-black max-h-[100px] overflow-scroll items-center justify-center font-medium text-white aspect-square">
+      <p className="flex bg-black max-h-[100px] overflow-scroll justify-center font-medium text-white aspect-square">
         Click on the Vite and React logos to learn more
       </p>
     </>
